@@ -10,6 +10,6 @@
 <div class="panel panel-primary">
 	<div class="panel-heading"><%= BootstrapUI.glyphIcon("question-sign","About") %></div>
 	<div class="panel-body">
-		<h2><img src="statics/logo-drops.png" /> Demo Project by DROPS Software</h2> 
+		<h2><img src="statics/logo-drops.png" /> Demo Project by DROPS Software - test</h2> 
 	</div>
 </div>
